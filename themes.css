@@ -8,6 +8,6 @@ html{
 /* dark theme styling - Here, we set data-them as "dark"*/
 html[data-theme='dark'] {
     --color-primary: #2b2f33;
-    --color-secondary: #d4d6df;
-    --color-accent: #827c72;
+    --color-secondary: #D7D1D5;
+    --color-accent: #585449;
 }
