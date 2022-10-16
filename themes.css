@@ -1,0 +1,13 @@
+/* default styling variables - making background color as white */
+html{
+    --color-primary: #f9f3f7;
+    --color-secondary: #2b2f33;
+    --color-accent: #cfad72;
+}
+
+/* dark theme styling - Here, we set data-them as "dark"*/
+html[data-theme='dark'] {
+    --color-primary: #2b2f33;
+    --color-secondary: #d4d6df;
+    --color-accent: #827c72;
+}
