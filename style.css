@@ -95,7 +95,7 @@ input[type="text"] {
 nav {
   display: flex;
   padding: 1rem;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   background-color: var(--color-accent);
 }
@@ -163,7 +163,7 @@ header button {
 }
 
 .header_graphics object svg path {
-  fill: #f00;
+  fill: rgb(40, 35, 35);
 }
 
 /* product section */
